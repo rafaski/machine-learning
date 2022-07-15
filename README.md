@@ -1,5 +1,5 @@
 # Machine-Learning
-[python] [sk-learn] [pandas] Machine learning projects
+Machine learning projects built with python, sk-learn, pandas and data visualization libraries.
 
 
 
